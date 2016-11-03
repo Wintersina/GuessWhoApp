@@ -20,6 +20,7 @@
         >
 
         <TextView
+            android:id="@+id/main_question_text_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Went Skinny Dipping?"
@@ -34,6 +35,7 @@
             android:layout_marginTop="100sp"
             >
             <Button
+                android:id="@+id/name_button1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Sina"
@@ -41,6 +43,7 @@
                 android:padding="8sp"
                 android:onClick="select1"/>
             <Button
+                android:id="@+id/name_button2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Rook"
@@ -48,6 +51,7 @@
                 android:padding="8sp"
                 android:onClick="select2"/>
             <Button
+                android:id="@+id/name_button3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Pj"
