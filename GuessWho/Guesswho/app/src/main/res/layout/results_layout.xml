@@ -18,22 +18,16 @@
             android:id="@+id/title_textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Went Skinny Dipping?"
+            android:text="TOPIC?"
             android:textSize="30sp"
             android:layout_marginBottom="100sp"
             />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Graph"
-            android:textSize="30sp"
-            android:layout_marginBottom="100sp"/>
 
         <TextView
             android:id="@+id/answer_text_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Answer: Sina"
+            android:text="NAME"
             android:textSize="30sp"
             android:layout_marginBottom="100sp"
             />

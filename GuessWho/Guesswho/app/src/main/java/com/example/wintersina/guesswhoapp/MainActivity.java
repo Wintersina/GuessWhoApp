@@ -40,9 +40,9 @@ public class MainActivity extends AppCompatActivity {
         names[4] = "Erin";
 
         actions[0] = "I smoked a cig at age 6.";
-        actions[1] = "I went vigan for a week, and loved it.";
+        actions[1] = "I went vegan for a week, and loved it.";
         actions[2] = "I ate food out of a trash can";
-        actions[3] = "I let my hair on fire";
+        actions[3] = "I lit my hair on fire";
         actions[4] = "I dined and dashed at a 5 star restaurant.";
 
 

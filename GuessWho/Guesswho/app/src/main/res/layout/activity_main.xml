@@ -16,14 +16,14 @@
         android:orientation="vertical"
         android:padding="10sp"
         android:gravity="center"
-        android:layout_marginBottom="100sp"
-        >
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
 
         <TextView
             android:id="@+id/main_question_text_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Went Skinny Dipping?"
+            android:text="TOPIC?"
             android:textSize="30sp"
             />
         <LinearLayout
